@@ -7,7 +7,7 @@ Questions from this topic are frequently asked in entrance exams such as CAT, CM
 ## Pre-Requisites
 
 One should be familiar with all the directions. Refer to the diagram below:
-![alt text](image.png)
+![alt text](assests/image.png)
 
 **Note:**
 - If a person is facing **North**, then "Your left and right" will be the same as the "Person facing North."

@@ -19,8 +19,7 @@ Between the main directions, four intermediate directions exist:
 - **South-East (SE)**
 - **South-West (SW)**
 
-![alt text](image-1.png)
-
+![alt text](assests/image-1.png)
 ### **Angle Between Directions**
 - The angle between two main directions is **90°**.
 - The angle between a main direction and its adjacent cardinal direction is **45°**.
@@ -31,7 +30,7 @@ Between the main directions, four intermediate directions exist:
 
 **Example:** If a person is facing west and turns **45° clockwise**, they will face **North-West (NW)**.
 
-![alt text](image-2.png)
+![alt text](assests/image-2.png)
 
 ----
 
@@ -45,7 +44,7 @@ Between the main directions, four intermediate directions exist:
 
 ## **Pythagoras Theorem for Distance Calculation**
 
-![alt text](image-3.png)
+![alt text](assests/image-3.png)
 In some problems, we use the Pythagoras theorem to find distances:
 \[ (Hypotenuse)^2 = (Perpendicular)^2 + (Base)^2 \]
 
